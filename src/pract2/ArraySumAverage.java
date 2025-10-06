@@ -1,3 +1,5 @@
+package pract2;
+
 public class ArraySumAverage {
     public static void main(String[] args) {
         // Инициализация массива как в Java
